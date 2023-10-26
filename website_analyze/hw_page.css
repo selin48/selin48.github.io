@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #eeeeee;
+    font-family: Verdana, sans-serif; 
+}
+
+#wrap {
+    height: 132%;
+    width: 80%;
+    background-color: white;
+    margin: 0 auto; 
+    border: 20px;
+    
+}
+
+
+
+
+section{
+    padding:20px 40px 40px;
+    
+   
+}
+
+p {
+  white-space:normal;
+  font-family: monospace;
+  line-height: 2; 
+}
