@@ -1,0 +1,217 @@
+@import url(http://fonts.googleapis.com/css?family=Permanent+Marker);
+
+@import url('https://fonts.googleapis.com/css2?family=Mooli&display=swap');
+
+
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #eeeeee;
+    font-family: Verdana, sans-serif; 
+}
+
+
+header{
+    padding: 2%;
+    text-align: center;
+    background-color: white;
+    font-size: 50px;
+    font-family: 'Permanent Marker', cursive;
+    
+}
+
+#father{
+    font-size: 25px;
+    font-family: 'Mooli', sans-serif;
+}
+
+#lifeh1{
+    font-size: 25px;
+}
+
+#homepage {
+    width: 90%;
+    background-color: white;
+    margin: 0 auto; 
+
+}
+
+
+
+#slidess {
+    width: 90%;
+    background-color: white;
+    margin: 0 auto; 
+}
+
+#life {
+    width: 90%;
+    background-color: white;
+    margin: 0 auto; 
+}
+
+
+#independence {
+    width: 90%;
+    background-color: white;
+    margin: 0 auto; 
+}
+
+nav{
+   background-color: red;
+   text-align: center;
+   padding: 10px;
+    
+}
+
+
+
+
+nav li {
+    display:inline;
+    
+}
+
+nav a {
+    color: white;
+    font-size: 170%;
+    padding: 10px 30px;
+    text-decoration: none;
+    font-family: Georgia, serif;
+
+}
+
+
+nav a:hover{
+    color:white;
+    background-color: lightblue;
+    
+}
+
+nav ul{
+    margin:0;
+    padding:0;
+}
+
+
+section{
+    padding:20px 40px 40px;
+    background-color: white;
+    height: 880px;   
+   
+}
+
+#sectionlife {
+    padding:10px 30px 30px;
+    background-color: white;
+    height: 1760px;   
+   
+}
+
+#parla{
+    width: 90%;
+    background-color: white;
+    margin: 0 auto; 
+}
+#sectionparla{
+    
+    padding:10px 30px 30px;
+    background-color: white;
+    height: 1000px; 
+    
+}
+
+#sectionindependence{
+    padding:10px 30px 30px;
+    background-color: white;
+    height: 1170px;   
+   
+}
+
+
+
+#ataturksdifference{
+    color:red
+}
+#ataturkdifference2{
+    color:red
+}
+
+
+h1{
+    font-family: 'Mooli', sans-serif;
+}
+
+#independenceh1{
+    font-family: 'Mooli', sans-serif;
+    text-align: center;
+    
+}
+
+
+#reformh1{
+    font-family: 'Mooli', sans-serif;
+    text-align: center;
+    
+}
+
+.first {
+    width: 35%;
+    float: right;
+    margin: 0 0 20px 30px;
+}
+
+.life{
+    width: 35%;
+    float: right;
+    margin: 0 0 20px 30px;
+    
+}
+
+
+
+
+
+
+.independenceImage {
+   width:27%;
+   height: 200px;
+   padding:15px;    
+   margin-top: 5px;
+   margin-left: 5px;
+    
+   
+}
+
+.reformImage {
+   width:27%;
+   height: 200px;
+   padding:15px;    
+   margin-top: 5px;
+   margin-left: 5px;
+    
+   
+}
+
+
+
+footer{
+   background-color: red;
+   color: white;
+   text-align: center;
+   padding:0.15px;    
+    
+}
+    
+
+#chronology{
+    font-family: 'Mooli', sans-serif, bold;
+    font-weight: bold;
+    
+}
+
+#reformsList{
+    font-family: 'Mooli', sans-serif;
+    font-weight: bold;
+}

@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #eeeeee;
+}
+
+#wrap {
+    
+    width: 70%;
+    background-color: powderblue;
+    margin: 0 auto; 
+}
+
+section {
+    padding:3%;
+}
